@@ -54,8 +54,9 @@ https://github.com/user-attachments/assets/df467e18-4995-4876-b6c5-c1ae37c73b1d
 
 
 ### Arrangement 3(Left Side)
-<!-- REPLACE THE LINK BELOW WITH YOUR VIDEO LINK -->
-[![](https://img.youtube.com/vi/YOUR_VIDEO_ID_3/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_3)
+
+https://github.com/user-attachments/assets/5793d54d-3821-4ca5-8476-30ea68eae2ad
+
 
 ## 🏁 How to Run
 
