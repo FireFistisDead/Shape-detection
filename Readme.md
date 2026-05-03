@@ -43,13 +43,17 @@ Below are the demonstrations of the robot successfully reaching the target in th
 
 ### Arrangement 1 (Center)
 
-https://github.com/FireFistisDead/Shape-detection/raw/main/assests/center_box.mp4
 
-### Arrangement 2 (Side)
+https://github.com/user-attachments/assets/938f87f9-f19f-40ee-91b2-470bd8ae15a4
 
-https://github.com/FireFistisDead/Shape-detection/raw/main/assests/right_side_box.mp4
 
-### Arrangement 3
+### Arrangement 2 (Right Side)
+
+
+https://github.com/user-attachments/assets/df467e18-4995-4876-b6c5-c1ae37c73b1d
+
+
+### Arrangement 3(Left Side)
 <!-- REPLACE THE LINK BELOW WITH YOUR VIDEO LINK -->
 [![](https://img.youtube.com/vi/YOUR_VIDEO_ID_3/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_3)
 
