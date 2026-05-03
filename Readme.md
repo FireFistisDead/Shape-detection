@@ -41,13 +41,11 @@ ros2_ws/
 
 Below are the demonstrations of the robot successfully reaching the target in three different shuffled object arrangements.
 
-### Arrangement 1
-<!-- REPLACE THE LINK BELOW WITH YOUR VIDEO LINK -->
-[![](https://img.youtube.com/vi/YOUR_VIDEO_ID_1/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_1)
+### Arrangement 1 (Center)
+<video src="assests/center_box.mp4" controls width="100%"></video>
 
-### Arrangement 2
-<!-- REPLACE THE LINK BELOW WITH YOUR VIDEO LINK -->
-[![](https://img.youtube.com/vi/YOUR_VIDEO_ID_2/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_2)
+### Arrangement 2 (Side)
+<video src="assests/right_side_box.mp4" controls width="100%"></video>
 
 ### Arrangement 3
 <!-- REPLACE THE LINK BELOW WITH YOUR VIDEO LINK -->
