@@ -42,10 +42,10 @@ ros2_ws/
 Below are the demonstrations of the robot successfully reaching the target in three different shuffled object arrangements.
 
 ### Arrangement 1 (Center)
-https://github.com/FireFistisDead/Shape-detection/raw/main/assests/center_box.mp4
+<video src="https://github.com/FireFistisDead/Shape-detection/raw/main/assests/center_box.mp4" controls="controls" style="max-width: 100%; height: auto;"></video>
 
 ### Arrangement 2 (Side)
-https://github.com/FireFistisDead/Shape-detection/raw/main/assests/right_side_box.mp4
+<video src="https://github.com/FireFistisDead/Shape-detection/raw/main/assests/right_side_box.mp4" controls="controls" style="max-width: 100%; height: auto;"></video>
 
 ### Arrangement 3
 <!-- REPLACE THE LINK BELOW WITH YOUR VIDEO LINK -->
